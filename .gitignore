@@ -1,0 +1,8 @@
+
+venv/Lib/site-packages/_distutils_hack/__pycache__/override.cpython-310.pyc
+*/venv/*
+*.h
+venv/Lib/site-packages/alembic-1.9.2.dist-info/INSTALLER
+*.pyc
+*venv/
+*/venv/
